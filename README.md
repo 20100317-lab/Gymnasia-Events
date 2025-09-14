@@ -1,5 +1,3 @@
-# Gymnasia-Events
-Events Company
 <!DOCTYPE html>
 <html lang="ka">
 <head>
@@ -244,4 +242,3 @@ Events Company
   </script>
 </body>
 </html>
-
